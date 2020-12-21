@@ -13,4 +13,4 @@ I keep myself in a growth mindset :shipit: through:
 - Meet new people and make friends 
 ```
 
-My site in [GitHub Pages](https://pages.github.com/).
+My site in [GitHub Pages](https://salimrj.github.io/reading-notes/).
