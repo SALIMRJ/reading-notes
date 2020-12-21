@@ -20,4 +20,4 @@ NAME | contact Info
 ***SALIM NIHAD*** :thumbsup: | **0782774650**
   **Salimraji2017@gmail.com**
  
-![Alt text](relative/path/to/https://www.callcentrehelper.com/images/stories/2018/01/podium-man-perfect-employee-760.png?raw=true "Title")
+![growth mindset](https://www.callcentrehelper.com/images/stories/2018/01/podium-man-perfect-employee-760.png)
