@@ -15,9 +15,9 @@ I keep myself in a growth mindset :shipit: through:
 
 ***My site in [GitHub Pages](https://salimrj.github.io/reading-notes/).***
 
-| NAME | contact Info
------------- | -------------
-|***SALIM NIHAD*** :thumbsup: | **0782774650**
-| **Salimraji2017@gmail.com**
+| NAME | contact Info |
+|------------ | ------------- |
+|***SALIM NIHAD*** :thumbsup: | **0782774650** **Salimraji2017@gmail.com***|
+                           
  
 ![growth mindset](https://www.callcentrehelper.com/images/stories/2018/01/podium-man-perfect-employee-760.png)
