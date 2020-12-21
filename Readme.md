@@ -8,9 +8,9 @@ But you must try to solve it and find new ways to solve it **
 
 I keep myself in a growth mindset :shipit: through:
 ```
-1. Learning 
-2. Accept the advice 
-3. Meet new people and make friends 
+- Learning 
+- Accept the advice 
+- Meet new people and make friends 
 ```
 
 My site in [GitHub Pages](https://pages.github.com/).
