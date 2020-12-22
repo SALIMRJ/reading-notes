@@ -1,4 +1,4 @@
- #Ch18 
+ # Ch18 
 
  **It's important to understand who your target audience
 is, why they would come to your site, what information
@@ -13,7 +13,7 @@ using size, color, and style.
  You can use grouping and similarity to help simplify
 the information you present**
 
-#Ch1
+# Ch1
 
 **HTML pages are text documents.
  HTML uses tags (characters that sit inside angled
@@ -27,21 +27,21 @@ Opening tags can carry attributes, which tell us more
 about the content of that element.
 Attributes require a name and a value.**
 
-#Ch17
+# Ch17
 
 **The new HTML5 elements indicate the purpose of
 different parts of a web page and help to describe
 its structure.
 The new elements provide clearer code (compared
-with using multiple <div> elements).
-Older browsers that do not understand HTML5
+with using multiple <div> elements)**
+**Older browsers that do not understand HTML5
 elements need to be told which elements are
 block-level elements.
 To make HTML5 elements work in Internet Explorer 8
 (and older versions of IE), extra JavaScript is needed,
 which is available free from Google**
 
-#Ch8
+# Ch8
 
 **DOCTYPES tell browsers which version of HTML you
 are using.
@@ -49,7 +49,7 @@ You can add comments to your code between the
 <!-- and --> markers.
 The id and class attributes allow you to identify
 particular elements.
-The <div> and <span> elements allow you to group
+The**  **<div> and <span> elements allow you to group
 block-level and inline elements together.
 <iframes> cut windows into your web pages through
 which other pages can be displayed.
