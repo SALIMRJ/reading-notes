@@ -25,7 +25,7 @@ Html
 
 | Number | Name |
 |------------ | ------------- |
-|             |               |
-|             |               |
-|             |               |
-|             |               |
+| Read 1      |[Markdown](https://canvas.instructure.com/courses/2480979/discussion_topics/10378569)    |
+| Read 2      |[The Coder's Computer](https://canvas.instructure.com/courses/2480979/discussion_topics/10378568)          |
+| Read 3       |[Revisions and the Cloud](https://canvas.instructure.com/courses/2480979/discussion_topics/10378567)        |
+| Read 4      |  [Structure web pages with HTML](https://canvas.instructure.com/courses/2480979/discussion_topics/10378566)|
