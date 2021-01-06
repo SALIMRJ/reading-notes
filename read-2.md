@@ -56,5 +56,22 @@ readability of its contents.
 **You can control the box dimensions and its distance from elements and its edges You can also change its color**
 
 
+# Array
+
+**An array is a group of objects stored together of the same type or different types of data type**
+
+
+The data is entered into it through several manual methods or through the sentences of rotation, and the elements within it are accessed through what is known as index, where every check is facilitated on a site inside the matrix and through it the data is stored or retrieved inside it
+Index always starts from the number 0, so if the length of the array is 10 f, the last element in it is index 9
+
+
+# Conditional Sentences
+
+There are types of conditional sentences
+1. if 
+2. if else 
+3. Swetch
+
+**Each of them has a specific use and special situations**
 
 
